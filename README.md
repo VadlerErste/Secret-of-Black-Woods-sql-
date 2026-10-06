@@ -10,4 +10,5 @@ URL: **jdbc:postgresql://rc1b-wcoijxj3yxfsf3fs.mdb.yandexcloud.net:6432/data-ana
 Порт:6432
 
 *Аналитическая записка в DBeaver для данных из PostgreeSQL*
+
 [LysenkovVV_CourseWork_150525.sql](https://github.com/user-attachments/files/33123550/LysenkovVV_CourseWork_150525.sql)
